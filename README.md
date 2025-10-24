@@ -226,3 +226,7 @@ routes/
 4. Create pull request
 
 ---
+## 🧑‍💻 Author
+
+**Amr — Laravel Backend Developer**  
+Building maintainable, real-time backend systems ⚡
